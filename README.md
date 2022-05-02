@@ -1,0 +1,1 @@
+This is a login page for hypothetical site made using HTML and CSS.
